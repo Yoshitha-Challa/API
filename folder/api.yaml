@@ -20,7 +20,9 @@ paths:
                 UserValueOne:
                   value: '{"id": "3", "name": "Shweta", "nation": "Spain"}'
                 UserValueTwo:
-                  value: '{"id": "4", "name": "Harleen", "nation": "India"}'                
+                  value: '{"id": "4", "name": "Harleen", "nation": "India"}' 
+                UserValueThree:
+                  value: '{"id": "5", "name": "Ayesha", "nation": "Austria"}' 
         
 components:
   schemas:
